@@ -11,7 +11,7 @@
 
 
 ### 站点管理
-编辑TestMysite/data/webstack.yml文件，来管理网址
+编辑TestMysite/data/webstack.yml文件，来管理站点
 ```txt
 ......
 ......
@@ -26,6 +26,14 @@
       logo: sonic.png
       url: https://sonic-cloud.cn/
       description: 免费开源的云真机测试平台，用心打造更好的使用体验
+......
+......
+```
+编辑TestMysite/data/friendlinks.yml文件，来管理友情链接
+```txt
+- title: xxx的个人博客
+  url: http://zhangyanc.club/
+  description: xxx的个人博客
 ......
 ......
 ```
