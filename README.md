@@ -59,11 +59,11 @@ Press Ctrl+C to stop
 如果你知道你的公网Ip或者域名, 如下面的 132.76.230.31, 可以使用下面的方式执行
 ```bash
 # 公网IP
-hugo server --baseUrl=132.76.230.31 --bind=0.0.0.0
+hugo server -baseUrl=132.76.230.31 --bind=0.0.0.0 &
 # 域名
-hugo server --baseUrl=zhangyanc.com --bind=0.0.0.0
+hugo server -baseUrl=zhangyanc.com --bind=0.0.0.0 &
 ```
-打开域名或者公网IP即可访问网站
+打开域名或者公网IP:1313即可访问网站（服务器记得放通1313端口）
 
 #### 停止服务
 执行以下命令停止服务
