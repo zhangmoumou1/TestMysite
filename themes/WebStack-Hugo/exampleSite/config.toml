@@ -12,8 +12,8 @@ publishDir            = "public"					# 站点静态文件保存目录
     author        = "zhangyancheng"
     description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
     upload        = "http://zhangyanc.club"  # 左侧导航栏的"网站提交"
-    about         = "hhttp://zhangyanc.club/about/"	# 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/zhangmoumou1"
+    about         = "https://github.com/zhangmoumou1/TestMysite"	# 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/zhangmoumou1/TestMysite"
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "Hugo 网址导航主题"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
