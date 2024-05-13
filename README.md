@@ -4,7 +4,7 @@
 
 
 ### 管理站点
-编辑TestMysite/data/webstack.yml文件
+编辑TestMysite/data/webstack.yml文件，来管理网址
 ```txt
 ......
 ......
