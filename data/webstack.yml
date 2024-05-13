@@ -12,7 +12,7 @@
       url: https://sonic-cloud.cn/
       description: 免费开源的云真机测试平台，用心打造更好的使用体验
     - title: 接口自动化测试框架
-      logo: test-api.png
+      logo: api.png
       url: https://github.com/zhangmoumou1/TestApiFramework
       description: 基于Python语言的接口自动化框架，高度封装后极大减少用例代码量，降低使用门槛
     - title: Selenium自动化测试框架
