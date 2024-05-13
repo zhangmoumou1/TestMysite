@@ -1,3 +1,9 @@
+<p>
+    <a href="https://github.com/zhangmoumou1/TestApiFramework"><img src="http://cdn.zhangyanc.club/cdn/readme/platform_system.svg"></a>
+    <a href="https://im.qq.com/index/"><img src="http://cdn.zhangyanc.club/cdn/readme/qq.svg"></a>
+    <a href="http://www.zhangyanc.club"><img src="http://cdn.zhangyanc.club/cdn/readme/personblog.svg"></a>
+</p>
+
 ## 一个静态响应式的导航网址
 为什么要做这个网站？经常在公司、家里（有时候还有其他的临时场所）更换电脑，每次同步书签（或者登陆一些导航网站）需要各种登陆，麻烦
 ![img.png](http://cdn.zhangyanc.club/cdn/readme/%E5%AF%BC%E8%88%AA.jpg)
@@ -59,9 +65,9 @@ Press Ctrl+C to stop
 如果你知道你的公网Ip或者域名，可以使用下面的方式执行
 ```bash
 # 公网IP
-hugo server -baseUrl=192.168.1.1 --bind=0.0.0.0 &
+hugo server --baseURL=192.168.1.1 --bind=0.0.0.0 &
 # 域名
-hugo server -baseUrl=zhangyanc.com --bind=0.0.0.0 &
+hugo server --baseURL=zhangyanc.com --bind=0.0.0.0 &
 ```
 打开域名或者公网IP:1313即可访问网站（服务器记得放通1313端口）
 
