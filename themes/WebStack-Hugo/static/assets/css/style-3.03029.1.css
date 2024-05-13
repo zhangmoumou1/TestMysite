@@ -60,7 +60,7 @@ a img.aligncenter{display:block;margin-left:auto;margin-right:auto}
 .sidebar-logo{height:74px;transition:background-color .2s}
 .sidebar-logo img{max-height:40px}
 .sidebar-menu{transition:all .3s;}
-.sidebar-nav .flex-bottom a,.sidebar-menu-inner a{display:block;overflow:hidden;padding-left:1.125rem;line-height:40px;max-height:40px;color:#b2b8be;transition:all .3s}
+.sidebar-nav .flex-bottom a,.sidebar-menu-inner a{display:block;overflow:hidden;padding-left:1.125rem;line-height:40px;max-height:40px;color:#495057;transition:all .3s}
 .sidebar-menu ul:first-child > li> a,.sidebar-menu ul:first-child > li> a span{ line-height:50px;max-height:50px;}
 .sidebar-menu-inner .sidebar-item .sidebar-item >ul>li a span{margin-left:60px}
 .sidebar-item{position:relative;display:block}
