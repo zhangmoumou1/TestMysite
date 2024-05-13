@@ -61,7 +61,7 @@
           description: django-rest-framework,是一套基于Django的REST框架，是一个强大灵活的构建 Web API 的工具包
         - title: Python Cookbook
           url: https://python3-cookbook.readthedocs.io/zh-cn/latest/index.html
-          logo: Python.png
+          logo: Python_cookbook.png
           description: 讲解python标准库，框架和应用程序中广泛使用的高级技术
 
 - taxonomy: 其他
