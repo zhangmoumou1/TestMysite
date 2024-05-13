@@ -11,7 +11,7 @@
 
 
 ### 站点管理
-编辑TestMysite/data/webstack.yml文件，来管理站点
+编辑TestMysite/data/webstack.yml文件，来管理站点(将logo图片放到.\TestMysite\themes\WebStack-Hugo\static\assets\images\logos路径下)
 ```txt
 ......
 ......
