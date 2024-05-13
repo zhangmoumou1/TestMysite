@@ -141,9 +141,9 @@
         <i class="iconfont icon-book-mark-line icon-lg mr-2" id="friendlink"></i>友情链接
     </h4>
     <div class="friendlink text-xs card">
-        <div class="card-body"> 
+        <div class="card-body">
 	    {{ range .Site.Data.friendlinks }}
-	    <a href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .title }}</a>
+            <a style="font-size: 14px" href="{{ .url }}" title="{{ .description }}" target="_blank">{{ .title }}</a>
 	    {{ end }}
         </div>
     </div>
