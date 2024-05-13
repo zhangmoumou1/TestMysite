@@ -3,6 +3,10 @@
 - taxonomy: 测试平台工具
   icon: far fa-star
   links:
+    - title: 个人博客
+      logo: favicon.svg
+      url: http://zhangyanc.club
+      description: 技术分享和生活杂记
     - title: 测试工具平台
       logo: data_factory.png
       url: http://zhangyanc.club:8088/
