@@ -4,12 +4,12 @@
     <a href="http://www.zhangyanc.club"><img src="http://cdn.zhangyanc.club/cdn/readme/personblog.svg"></a>
 </p>
 
-## 一个静态响应式的导航网址
+## 一个静态响应式的导航网站
 为什么要做这个网站？经常在公司、家里（有时候还有其他的临时场所）更换电脑，每次同步书签（或者登陆一些导航网站）需要各种登陆，麻烦
 ![img.png](http://cdn.zhangyanc.club/cdn/readme/%E5%AF%BC%E8%88%AA.jpg)
 
 
-### 管理站点
+### 站点管理
 编辑TestMysite/data/webstack.yml文件，来管理网址
 ```txt
 ......
