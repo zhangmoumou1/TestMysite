@@ -1,0 +1,81 @@
+---
+
+- taxonomy: 测试平台工具
+  icon: far fa-star
+  links:
+    - title: 测试工具平台
+      logo: data_factory.png
+      url: http://zhangyanc.club:8088/
+      description: 基于Django Bootstrap的定制化测试辅助工具平台（造数工厂）
+    - title: Sonic云真机平台
+      logo: sonic.png
+      url: https://sonic-cloud.cn/
+      description: 免费开源的云真机测试平台，用心打造更好的使用体验
+    - title: 接口自动化测试框架
+      logo: test-api.png
+      url: https://github.com/zhangmoumou1/TestApiFramework
+      description: 基于Python语言的接口自动化框架，高度封装后极大减少用例代码量，降低使用门槛
+    - title: Selenium自动化测试框架
+      logo: selenium_SMVoaFT.png
+      url: https://github.com/zhangmoumou1/selenium_python
+      description: python selenium自动化测试框架（Excel管理测试用例、记录日志和截图等）
+    - title: APP自动化测试框架
+      logo: airtest.png
+      url: https://github.com/zhangmoumou1/TestAirtestFramework
+      description: Airtest是一款跨平台的UI自动化测试框架,基于图像识别原理,适用于游戏和App
+    - title: Github
+      logo: github.png
+      url: https://github.com/zhangmoumou1
+      description: github是一个面向开源及私有软件项目的托管平台,可以让开发者们在这里托管自己的代码,并进行版本控制
+
+- taxonomy: 开发相关
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 前端开发
+      links:
+        - title: Bootstrap4
+          logo: bootstrap.png
+          url: https://v4.bootcss.com/
+          description: 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
+        - title: Vue.js
+          logo: Vue.png
+          url: https://cn.vuejs.org/
+          description: 基于标准 HTML、CSS 和 JavaScript 构建，提供容易上手的 API 和一流的文档
+        - title: 前端模板网站
+          logo: front.png
+          url: https://sc.chinaz.com/moban/
+          description: 一款在线前端模板，包含管理后台、html5等
+        - title: Iconfont矢量图标库
+          logo: iconfont.png
+          url: https://www.iconfont.cn/
+          description: iconfont-国内功能很强大且图标内容很丰富的矢量图标库,提供矢量图标下载、在线存储、格式转换等功能
+    - term: 后端开发
+      links:
+        - title: Django3.0
+          url: https://docs.djangoproject.com/zh-hans/3.0/
+          logo: django.png
+          description: Django是一个高级的Python Web框架，可以快速开发安全和可维护的网站
+        - title: Django Rest Framework
+          url: https://www.django-rest-framework.org/
+          logo: drf.png
+          description: django-rest-framework,是一套基于Django的REST框架，是一个强大灵活的构建 Web API 的工具包
+        - title: Python Cookbook
+          url: https://python3-cookbook.readthedocs.io/zh-cn/latest/index.html
+          logo: Python.png
+          description: 讲解python标准库，框架和应用程序中广泛使用的高级技术
+
+- taxonomy: 其他
+  icon: fa fa-map-signs
+  links:
+    - title: Watt Toolkit工具箱
+      logo: watt_toolkit.png
+      url: https://steampp.net/
+      description: WattToolkit是一个免费开源跨平台的多功能加速访问软件
+    - title: Shield
+      logo: shields.png
+      url: https://shields.io/badges/static-badge
+      description: 制作GitHub项目漂亮徽章
+    - title: 七牛云
+      logo: 七牛云.png
+      url: https://sso.qiniu.com/
+      description: 知名的云计算及数据服务提供商
