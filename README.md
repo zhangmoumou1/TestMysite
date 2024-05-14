@@ -83,5 +83,6 @@ hugo server --baseURL=zhangyanc.com --bind=0.0.0.0 &
 #### 停止服务
 执行以下命令停止服务
 ```bash
+# 若无法执行，需要进行授权
 ./stop_server.sh
 ```
